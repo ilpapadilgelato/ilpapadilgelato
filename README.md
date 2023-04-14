@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilpapadilgelato
 - 👀 I’m interested in learning all about data and blockchain technology
-- 🌱 I’m currently learning looker, aws and python... im fairly new but im working on it.
+- 🌱 I’m currently learning data science, aws and python... im fairly new but im improving everyday.
 - 💞️ I’m looking to collaborate on any projects that have to do with music...
 - 📫 How to reach me ilpapadilgelato @ your favorite net.com ...
 
